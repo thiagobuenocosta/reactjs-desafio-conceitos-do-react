@@ -1,5 +1,5 @@
 {
-  "name": "01-github-explorer",
+  "name": "desafio-conceitos-do-react",
   "version": "1.0.0",
   "main": "index.js",
   "license": "MIT",
@@ -22,7 +22,8 @@
     "@pmmmwh/react-refresh-webpack-plugin": "^0.4.3",
     "@testing-library/jest-dom": "^5.11.9",
     "@testing-library/react": "^11.2.5",
-    "@types/react-dom": "^17.0.0",
+    "@types/react": "^17.0.11",
+    "@types/react-dom": "^17.0.8",
     "babel-loader": "^8.2.2",
     "babel-preset-react-app": "^10.0.0",
     "cross-env": "^7.0.3",
@@ -40,5 +41,7 @@
     "webpack": "^5.17.0",
     "webpack-cli": "^4.4.0",
     "webpack-dev-server": "^3.11.2"
-  }
+  },
+  "repository": "https://github.com/thiagobuenocosta/reactjs-desafio-conceitos-do-react.git",
+  "author": "Thiago Bueno Costa <th.bueno.95@gmail.com>"
 }
